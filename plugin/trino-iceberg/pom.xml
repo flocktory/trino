@@ -628,7 +628,7 @@
         <dependency>
             <groupId>org.keycloak</groupId>
             <artifactId>keycloak-core</artifactId>
-            <version>24.0.4</version>
+            <version>25.0.4</version>
             <scope>test</scope>
         </dependency>
 
